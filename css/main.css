@@ -1,0 +1,27 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    color:green;
+}
+
+p {
+    color:red;
+}
+
+ul {
+    color:rgb(223, 80, 55);
+}
+
+hr {
+    background: red;
+}
+
+ol {
+    color:yellow;
+}
+
+a:hover {
+    color:purple;
+}
