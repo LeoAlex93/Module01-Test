@@ -66,20 +66,16 @@ h1, h2, h3 {
      margin-bottom: 20px; 
  }
 
- .link {
-     background: rebeccapurple;
-     color: white;
-     padding: 8px 15px;
-     margin-left: 10px;
- }
+ 
 
  .link a {
-     color:white;
+    background: rebeccapurple;
+    color: white;
+    padding: 8px 15px;
+    margin-left: 10px;
  }
 
- .link a:hover {
-     color: cadetblue;
- }
+ 
 
 .post {
     padding-bottom: 20px;
