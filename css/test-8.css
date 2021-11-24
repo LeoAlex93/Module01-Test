@@ -73,6 +73,14 @@ h1, h2, h3 {
      margin-left: 10px;
  }
 
+ .link a {
+     color:white;
+ }
+
+ .link a:hover {
+     color: cadetblue;
+ }
+
 .post {
     padding-bottom: 20px;
 }
